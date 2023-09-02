@@ -2,6 +2,7 @@ brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask slack
 brew install --cask notion
+brew install --cask zoom
 brew install --cask deepl
 brew install --cask docker
 brew install --cask canva
