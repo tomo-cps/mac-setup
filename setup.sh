@@ -15,10 +15,10 @@ brew install spectacle
 brew install ag
 
 # terminal-setup
-cp ./dot.zshrc ~/.zshrc
+cp ./data/dot.zshrc ~/.zshrc
 
 # emacs-setup
-unzip dot.emacs.d.zip
+unzip data/dot.emacs.d.zip
 mkdir -p ~/.emacs.d; cp -r dot.emacs.d/* ~/.emacs.d/
 rm -rf dot.emacs.d
 
