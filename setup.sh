@@ -6,6 +6,7 @@ brew install --cask zoom
 brew install --cask deepl
 brew install --cask docker
 brew install --cask canva
+brew install --cask warp
 
 brew install emacs 
 brew install wget 
