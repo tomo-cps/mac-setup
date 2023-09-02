@@ -92,7 +92,9 @@ bash Anaconda3-XXXX.XX-XX-MacOSX-x86_64.sh
   - Advanced
     - Bell → Audible bell → OFF
 
-
+- [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) 🐈
+   - RunCat cannot be downloaded via brew, so install via GUI
+      - This application provides a key-frame animation to the menu bar. The speed of the animation depends on the CPU usage of your Mac.
 
 
 
