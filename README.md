@@ -1,6 +1,7 @@
 # macOS Setup Guide
 This guide covers the basics of setting up a development environment on a new Mac. 
 
+## Download Necessary Applications
 ### 1. Install [Homebrew](https://brew.sh/) :beer:
 Paste at a terminal prompt:
 ``` 
@@ -26,6 +27,18 @@ git clone https://github.com/tomo-cps/mac-setup.git
 ### 4. Install necessary applications using shell scripts
 ```
 bash setup.sh
+```
+
+---
+## Download [Anaconda](https://www.anaconda.com/download) 🐍
+
+Copy the link address and execute the following command　
+```
+wget https://repo.anaconda.com/archive/Anaconda3-XXXX.XX-XX-MacOSX-x86_64.sh
+```
+
+```
+bash Anaconda3-XXXX.XX-XX-MacOSX-x86_64.sh
 ```
 
 ---
