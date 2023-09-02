@@ -31,15 +31,15 @@ bash setup.sh
 ---
 ## My favorite Mac setup 👀
 
-- Language: English
+- `Language`: English
   - General → Language & Region → + → English
-- Dock：Left and more
+- `Dock`：Left and more
   - Desktop & Dock → Position on screen → Left
   - Automatically hide and show the Dock → ON
   - Animate opening applications → OFF
   - Show indicators for open applications → ON
   - Show recent applications in Dock → OFF
-- Keyboard: Modifier Keys and more
+- `Keyboard`: Modifier Keys and more
   - Keyboard → Keybord Shortcuts → Modifier Keys
     - Caps Lock key 2 Command key
     - Control key 2 Command key
@@ -47,17 +47,17 @@ bash setup.sh
   - → Spotlight → All OFF
   - → Keybord → All OFF
   - → Input Sources → Select the previous input source → command+Space
-- Keyboard: Live Conversion OFF
+- `Keyboard`: Live Conversion OFF
   - Keyboard → Text Input → Input Sources Edit... → あ Japanese - Romaji → Live Conversion → OFF
-- Trakpad: Fastest truck speed and more
+- `Trakpad`: Fastest truck speed and more
   - Trackpd → Tracking speed → fastest
   - Tap to click → ON
   - Look up & data detectors → Tap with Tree Fingers
-- Displays: More Space
+- `Displays`: More Space
   - Displays → More Space
-- Wallpaper: Bottom dynamic wallpaper 
+- `Wallpaper`: Bottom dynamic wallpaper 
 ![wallpaper](./data/wallpaper.png)
-- Terminal
+- `Terminal`
   - Terminal → Settings → Pro → Default
   - Text
     - Background → Opacity → 100%
