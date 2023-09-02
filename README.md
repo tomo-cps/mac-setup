@@ -56,6 +56,8 @@ bash setup.sh
   - Look up & data detectors → Tap with Tree Fingers
 - `Displays`: More Space
   - Displays → More Space
+- `Accessibility`: Allow zooming
+　- Accessibility → Use scroll gesture with modifier keys to zoom → ON
 - `Wallpaper`: Bottom dynamic wallpaper 
 ![wallpaper](./data/wallpaper.png)
 - `Terminal`
