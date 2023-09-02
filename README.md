@@ -33,12 +33,13 @@ bash setup.sh
 
 - `Language`: English
   - General → Language & Region → + → English
-- `Dock`：Left and more
+- `Desktop & Dock`：Left and more
   - Desktop & Dock → Position on screen → Left
   - Automatically hide and show the Dock → ON
   - Animate opening applications → OFF
   - Show indicators for open applications → ON
   - Show recent applications in Dock → OFF
+  - Windows & Apps → Default web browser → Google Chrome
 - `Keyboard`: Modifier Keys and more
   - Keyboard → Keybord Shortcuts → Modifier Keys
     - Caps Lock key 2 Command key
