@@ -26,6 +26,10 @@ git clone https://github.com/tomo-cps/mac-setup.git
 
 ### 4. Install necessary applications using shell scripts
 ```
+cd mac-setup
+```
+
+```
 bash setup.sh
 ```
 
