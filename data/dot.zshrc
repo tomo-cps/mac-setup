@@ -16,6 +16,9 @@ alias gs="git status"
 alias gb="git branch"
 alias gc="git commit"
 
+# docker
+alias d="docker"
+
 # watch
 alias w="watch -n 1"
 
