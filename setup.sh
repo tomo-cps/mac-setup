@@ -1,20 +1,22 @@
-brew install --cask google-chrome 
-brew install --cask visual-studio-code
-brew install --cask slack
-brew install --cask notion
-brew install --cask zoom
-brew install --cask deepl
-brew install --cask docker
-brew install --cask canva
-brew install --cask warp
+brew install --cask \
+  google-chrome \
+  visual-studio-code \
+  slack \
+  notion \
+  zoom \
+  deepl \
+  docker \
+  canva \
+  warp
 
-brew install emacs 
-brew install wget 
-brew install curl 
-brew install tmux 
-brew install mi
-brew install spectacle
-brew install ag
+brew install \
+  emacs \
+  wget \
+  curl \
+  tmux \
+  mi \
+  spectacle \
+  ag
 
 # terminal-setup
 cp ./data/dot.zshrc ~/.zshrc
