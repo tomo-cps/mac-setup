@@ -1,4 +1,4 @@
-# macOS Setup Guide
+# macOS Ventura Setup Guide
 This guide covers the basics of setting up a development environment on a new Mac. 
 
 ## Download Necessary Applications
