@@ -1,6 +1,9 @@
 # macOS Ventura Setup Guide
 This guide covers the basics of setting up a development environment on a new Mac. 
 
+<img width="470" alt="Screenshot 2023-10-19 at 17 24 46" src="https://github.com/tomo-cps/mac-setup/assets/103920024/0b82495c-a51b-4203-b08f-6762cbca2995">
+
+
 ## Download Necessary Applications
 ### 1. Install [Homebrew](https://brew.sh/) :beer:
 Paste at a terminal prompt:
