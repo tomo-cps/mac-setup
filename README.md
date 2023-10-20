@@ -83,7 +83,7 @@ bash Anaconda3-XXXX.XX-XX-MacOSX-x86_64.sh
 - `Terminal`
   - Terminal → Settings → Pro → Default
   - Text
-    - Background → Opacity → 100%
+    - Background → Color & Effects → Opacity → 100%
     - Font → Change... → SF Mono → Regular → 16 pt
     - Text → Antialias text → ON
     - Text → Text → Opacity → 90%
