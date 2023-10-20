@@ -77,7 +77,7 @@ bash Anaconda3-XXXX.XX-XX-MacOSX-x86_64.sh
 - `Displays`: More Space
   - Displays → More Space
 - `Accessibility`: Allow zooming
-　- Accessibility → zoom → Use scroll gesture with modifier keys to zoom → ON
+　- Accessibility → Zoom → Use scroll gesture with modifier keys to zoom → ON
 - `Wallpaper`: Bottom dynamic wallpaper 
 ![wallpaper](./data/wallpaper.png)
 - `Terminal`
