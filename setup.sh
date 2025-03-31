@@ -8,7 +8,8 @@ brew install --cask \
   docker \
   canva \
   warp \
-  cursor
+  cursor \
+  rectangle
 
 brew install \
   emacs \
