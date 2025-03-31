@@ -7,7 +7,8 @@ brew install --cask \
   deepl \
   docker \
   canva \
-  warp
+  warp \
+  cursor
 
 brew install \
   emacs \
